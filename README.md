@@ -34,10 +34,7 @@ The dashboard provides insights through the following KPIs and visuals:
 <img width="1437" height="807" alt="Dashboard1" src="https://github.com/filipbaryla/Electronic_Sales/blob/main/Images/screenshot_1.png?raw=true" />
 
 #### Dashboard View 2  
-<img width="1436" height="803" alt="Dashboard 2" src="https://github.com/user-attachments/assets/81546cf0-4298-42a2-9ab6-2d0ed09d4d23" />
-
-#### Dashboard View 3
-<img width="1445" height="808" alt="Dashboard 3" src="https://github.com/user-attachments/assets/971a7476-723a-46c2-a0b3-8ab38b4dc18f" />
+<img width="1436" height="803" alt="Dashboard 2" src="https://github.com/filipbaryla/Electronic_Sales/blob/main/Images/screenshot_2.png?raw=true" />
 
 ---
 
