@@ -1,4 +1,4 @@
-# Electronic-Sales# 💼 Sales Dashboard Using Power BI
+💼 Electronic Sales Dashboard Using Power BI
 
 This Power BI project presents a **electronics sales dashboard** that provides interactive insights through dynamic filtering and sales calculations from September 2023 to September 2024. It is designed to help stakeholders make **data-driven decisions** by analyzing sales performance, customer trends, products and customers age comparisons.
 
