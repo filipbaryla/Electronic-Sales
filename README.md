@@ -7,7 +7,7 @@ This Power BI project presents a **electronics sales dashboard** that provides i
 ## 🔧 Key Features
 
 ### 🎯 Dynamic Filtering
-- Implemented **Gender**,**Order Status**, types of slicers.
+- Implemented **Gender**, **Order Status** types of slicers.
 - Added **Sales**,**Quantity** and **Customers** types of slicers to compare them with **Date**.
 
 ### 🔍 Size of the Chart
