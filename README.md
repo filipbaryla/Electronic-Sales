@@ -46,7 +46,3 @@ The dashboard provides insights through the following KPIs and visuals:
 - **Interactive Slicers**
 
 ---
-
-## 📌 Use Case
-
-Ideal for **sales managers, analysts, and decision-makers** looking for real-time insights into sales performance across months, categories, and customer segments, with a focus on **tracking against budget** and **year-on-year growth**.
